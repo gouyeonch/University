@@ -1,0 +1,4 @@
+sea f
+add 4
+mul 40
+sta 8
